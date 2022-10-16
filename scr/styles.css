@@ -34,16 +34,20 @@ img {
 
 @media (min-width: 1440px){
     .components{
-        height: 40%;
-        width: 40%;
-        margin: 6em auto;
+        width: 400px;
+        margin: 4em auto;
     }
 
     #title {
-        font-size: 50px;
+        font-size: 30px;
     }
 
     #parag {
-        font-size: 32px;
+        font-size: 22px;
+    }
+
+    img {
+        margin-bottom: 0;
+        width: 80%;
     }
 }
